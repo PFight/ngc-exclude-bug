@@ -1,0 +1,21 @@
+{
+  "name": "ngc-exclude-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PFight",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^2.1.2",
+    "rxjs": "^5.0.0-rc.1",
+    "zone.js": "^0.6.26"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^2.1.2",
+    "@angular/compiler-cli": "^2.1.2",
+    "typescript": "^2.0.7"
+  }
+}
