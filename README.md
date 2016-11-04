@@ -8,7 +8,7 @@ Minimal example to reproduce @angluar/compiler-cli bug
 
 ### Run
 
-        ngc -p tsconfig.ngc.json
+        "./node_modules/.bin/ngc" -p tsconfig.ngc.json
 
 ### Bug
 
